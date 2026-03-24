@@ -18,7 +18,7 @@ M.Tech from IIT Guwahati. Currently working on production-scale event-driven pip
 
 | Repo | What it is |
 |---|---|
-| [`rag-pipeline-demo`](https://github.com/prashant-pk/rag-pipeline-demo) | Multimodal RAG pipeline — video → Gemini extraction → layout chunking → AlloyDB → BDD generation |
+| [`rag-pipeline-demo`](https://github.com/pras-1pk/rag-pipeline-demo) | Multimodal RAG pipeline — video → Gemini extraction → layout chunking → AlloyDB → BDD generation |
 
 More coming: async job system, Redis caching patterns, Pub/Sub event pipeline.
 
