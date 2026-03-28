@@ -10,6 +10,7 @@ M.Tech from IIT Guwahati. Currently shipping production-scale event-driven pipel
 | Repo | What it is | Stack |
 |---|---|---|
 | [`job_search_automation`](https://github.com/pras-1pk/job_search_automation) | AI-powered job agent — fetches live listings daily, scores them against your resume via Gemini, logs to Sheets, notifies on Telegram. Runs on Cloud Run + Scheduler at ~$0.03/month. | Python, Gemini, Cloud Run, Cloud Scheduler, Secret Manager |
+| [`dsa-solutions`](https://github.com/pras-1pk/dsa-solutions) | Organised LeetCode solutions in Python — 104 solved (63 medium), 2 added daily. Each file includes approach rationale and time/space complexity. | Python |
 | [`rag-pipeline-demo`](https://github.com/pras-1pk/rag-pipeline-demo) *(WIP)* | Multimodal RAG pipeline — video → Gemini 2.5 Pro extraction → layout-based chunking → AlloyDB vector storage → BDD test case generation. | Python, Vertex AI, AlloyDB, FastAPI, Docker |
 
 ---
@@ -43,4 +44,4 @@ M.Tech from IIT Guwahati. Currently shipping production-scale event-driven pipel
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/prashant-pk) · prashant1.pk32@gmail.com
+[LinkedIn](https://linkedin.com/in/prashant-pk) · [LeetCode](https://leetcode.com/u/prashant1_pk32/) · prashant1.pk32@gmail.com
