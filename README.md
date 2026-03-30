@@ -1,7 +1,7 @@
 # Hi, I'm Prashant
 
 Backend engineer building distributed, cloud-native systems on GCP and AWS.  
-M.Tech from IIT Guwahati. Currently shipping production-scale event-driven pipelines and RAG systems at Google LLC (via LTIMindtree).
+M.Tech from IIT Guwahati. Currently at LTIMindtree, building production-scale event-driven pipelines and RAG systems on GCP.
 
 ---
 
