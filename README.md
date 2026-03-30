@@ -17,11 +17,18 @@ M.Tech from IIT Guwahati. Currently at LTIMindtree, building production-scale ev
 
 ## What I build at work
 
-- **Event-driven pipelines** — Pub/Sub, Cloud Tasks, async job systems at high throughput
-- **Data infrastructure** — BigQuery, PostgreSQL, AlloyDB, Redis caching layers
-- **RAG systems** — multimodal ingestion, vector search, LLM-powered generation on Vertex AI
-- **Cloud-native backends** — FastAPI services deployed on Cloud Run, containerised with Docker
-
+- **Event-driven pipelines** — Pub/Sub + Cloud Tasks replacing 
+  synchronous handlers; cut end-to-end latency by 70% and 
+  eliminated 50K+ redundant API calls/day across multi-region GCP
+- **Data infrastructure** — BigQuery, PostgreSQL, AlloyDB, Redis; 
+  unified analytics for 560+ client workspaces, query time 
+  improved 40% post-migration from MySQL
+- **RAG systems** — multimodal ingestion on Vertex AI + Gemini 2.5 
+  Pro; layout-based chunking into AlloyDB vector store; adopted 
+  across all internal engineering teams
+- **Self-service platforms** — alerting system serving 1,000+ 
+  analyst clients with two-layer BigQuery validation and zero 
+  SQL dependency
 ---
 
 ## Tech I work with daily
